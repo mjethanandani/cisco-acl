@@ -1,5 +1,5 @@
 module Cisco-IOS-XR-acl {
-  namespace "urn:ietf:params:xml:ns:yang:Cisco-IOS-XR-acl";
+  namespace "http://cisco.com/ns/yang/Cisco-IOS-XR-acl";
   prefix acl;
   
   import ietf-yang-types {
